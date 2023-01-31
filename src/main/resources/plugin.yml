@@ -1,0 +1,8 @@
+name: RetroMineV2
+version: '${project.version}'
+main: com.klashdevelopment.retrominev2.RetroMineV2
+api-version: 1.19
+prefix: RMV2
+authors: [ GavinGoGaming ]
+description: RetroMineV2
+website: http://nekuzi.ml

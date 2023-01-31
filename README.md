@@ -1,2 +1,2 @@
 # RetroMineV2 Bot
- The bot for retromine.
+ The bot for retromine (- verification).
